@@ -5,7 +5,7 @@ A powerful, highly-configurable Python script for generating synthetic CAPTCHA i
 
 This script can be used to reverse-engineer and replicate complex visual styles, including multi-layer noise, advanced text distortion, and procedural artifacts.
 
-**Author:** Kalana Gayan Senevirathne
+**Author:** Sasanka-Maduwantha
 
 ## Key Features
 
